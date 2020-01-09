@@ -28,7 +28,8 @@ Practice building a basic web page using semantic layout and incremental develop
 ## Instructions
 
 1. Fork this repository, turn on GitHub pages, and clone
-1. Study the [mock-up](#mock-up)
+1. Study the [mock-up](#mock-up) 
+    1. You only need to replicate the design, not the functionality!
 1. Plan your user stories in [./development-strategy.md](./development-strategy.md)
 1. Develop one story at a time
     1. Create a new branch before beginning each story
