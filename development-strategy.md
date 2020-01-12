@@ -2,12 +2,12 @@
 
 > add one row to this table for each user story you define
 
-| _Story Name_ | __As a/n__ ... | __I can__ ... | __so that__ ... | (HTML) | (CSS) |
-| --- | --- | --- | --- | --- | --- |
-| __Live Boilerplate__ | enthusiastic HYF student | navigate to an empty website | I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
-|  |  |  |  |  |  |
-| ... | ... | ... | ... | ... | ... |
-| (something description) | (_user type_) | (do something) | (something desirable happens) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+| _Story Name_ | User Story | Changes in HTML | Changes in CSS |
+| --- | --- | --- | --- |
+| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
+|  | |  |  |
+| ... | ... | ... | ... |
+| (something description) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
 
 
 ---
